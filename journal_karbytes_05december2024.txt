@@ -1,0 +1,7 @@
+// journal_karbytes_05december2024.txt (date: 04_DECEMBER_2024)
+
+The following "algorithm" is some "half baked" idea karbytes had on the sunny (but not overly warm and also slightly windy and slightly cloudy) afternoon on 04_DECEMBER_2024 about a possibly feasible alternative (or supplement) to a government-distributed "universal basic income").
+
+STEP_0: An individual generates a liveable income from passive income sources (such as advertisement revenue (for displaying advertisements on websites) or "royalties" on published content).
+
+STEP_1: An individual who generates a liveable income from passive income sources becomes an "angel investor" of some other individual (including the possibility that the recipient of funds is also an individual who is already (or else in the process of becoming) an individual who generates a liveable income from passive income sources).
