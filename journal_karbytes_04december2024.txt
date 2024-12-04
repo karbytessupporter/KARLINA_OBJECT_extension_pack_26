@@ -1,10 +1,10 @@
 /** 
-  * file: journal_karbytes_04december2024.txt 
-  * type: plain-text 
-  * date: 03_DECEMBER_2024 
-  * author: karbytes 
-  * license: PUBLIC_DOMAIN 
-  */
+ * file: journal_karbytes_04december2024.txt 
+ * type: plain-text 
+ * date: 03_DECEMBER_2024 
+ * author: karbytes 
+ * license: PUBLIC_DOMAIN 
+ */
 
 During the making of the past six "micro directories" in the "macro directory" of the website named Karbytes For Life Blog dot WordPress dot Com I have been gradually tapering off the generation of content pertaining to recurrent themes which I consider to be too "low quality" to be considered as "sufficiently worthy" of being showcased "prominently" within the body of public web hosted digital files named karbytes.
 
@@ -16,4 +16,4 @@ In summary, this note expresses my long-term effort to minimize the extent I get
 
 (I do not mean to suggest that I think most humans are "fucked up" compared to me. I think it is likely that most humans are what I would consider to be "sufficiently ethical" (i.e. decent) people. At this time I do not have an efficient and reliable way to assess humanity to the extent I can discern what the ratio is of humans I consider to be "decent" and humans I do not consider to be "decent". Hence, I decided it is most conducive to my goals for me to continue (for an indefinitely long time period) assuming that more than 60% of humans pander to "right wing" conservative worldviews and exhibit what I consider to be "insufficiently ethical" conduct for me to regard as non-descent people).
 
-Now karbytes is no longer obliged to be a "social justice warrior". Instead, karbytes is an unabashed hedonist (with its own self-serving (yet arguably altruistic) ethical policies (despite ultimately contextualizing ethics as being entirely arbitrary and solipsistic constructs designed to help an information processing agent organize its resource expidenture in a maximally efficient way in service to its goals (e.g. survival and comfort) and karbytes is primarily focused on metaphysics, computation, logic, and transhumanist utopian idealization.
+Now karbytes is no longer obliged to be a "social justice warrior". Instead, karbytes is an unabashed hedonist (with its own self-serving (yet arguably altruistic) ethical policies (despite ultimately contextualizing ethics as being entirely arbitrary and solipsistic constructs designed to help an information processing agent organize its resource expidenture in a maximally efficient way in service to its goals (e.g. survival and comfort) and karbytes is primarily focused on metaphysics, computation, logic, and transhumanist utopian idealization)).
