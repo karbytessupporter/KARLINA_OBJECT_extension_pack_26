@@ -1,0 +1,37 @@
+// journal_karbytes_06december2024.txt
+
+The following eight photographic images were generated using karbytes' Android phone on 05_DECEMBER_2024 while karbytes was walking around in Castro Valley that day:
+
+image_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/rose_dark_pink_castro_valley_california_05dec2024.jpg
+
+image_1: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/redwood_road_castro_valley_california_05dec2024.jpg
+
+image_2: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/acorns_castro_valley_california_05dec2024.jpg
+
+image_3: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/redwood_canyon_castro_valley_california_05dec2024.jpg
+
+image_4: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/yellow_leaves_autumn_tree_california_05dec2024.jpg
+
+image_5: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/oak_tree_forest_passage_california_05dec2024_p0.jpg
+
+image_6: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/oak_tree_forest_passage_california_05dec2024_p1.jpg
+
+image_7: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/oak_tree_forest_passage_california_05dec2024_p2.jpg
+
+* * *
+
+As of 30_NOVEMBER_2024 at 11:59PM Pacific Standard Time, the most recently-updated and complete version of the file collection named karbytes (according to the web page whose Uniform Resource Locator is https://karbytesforlifeblog.wordpress.com/about_karbytes/) which I (i.e. karbytes) burned to M_DISCs (where each of such discs is stored inside of its own cardboard and plastic compact disc "jewel case") are is stored inside of a blue zip-locking compact disc case (which is allegedly fireproof and waterproof) inside of a metal box (approximately 11 inches in length, 8.5 inches in width, and 3 inches in height) inside of the bottom plastic storage bin which is stowed beneath another plastic storage bin of the same dimensions (i.e. approximately 2.5 feet in height, 2.5 feet in length, and 2 feet in width) inside of the closet inside of "my" room at "my" house (which is described in more detail (including the referencing of "my" postal address) by the web page at the following Uniform Resource Locator: https://karbytesforlifeblog.wordpress.com/journal_karbytes_25november2024/).
+
+Because I lost the key which originally came with that metal box, I plan on using a belt to fasten that box shut (and I plan on storing within that box multiple copies of the most recently-updated and complete versions of the file collection named karbytes and such that each of those discs is inside of its own jewel case container and such that as many of those non empty jewel cases are stored inside of zip-locking compact disc cases which are allegedly fireproof and waterproof).
+
+Eventually I expect to have to obtain a larger metal box to store my growing collection of karbytes M_DISCs. Alternatively, I can relegate relatively old karbytes version backup discs to alternative containers (and as few of such containers as possible and such that each of those containers is as durable as possible) while reserving only the newest karbytes version backup discs to the metal safe (where the aforementioned blue zip-locking compact disc container inside of that metal box is designed to be a relatively portable receptacle for storing the most recently updated and complete version of karbytes on M_DISC media).
+
+* * *
+
+On 05_DECEMBER_2024, karbytes ordered from Amazon dot Com (a) a set of ten M_DISCs which each have a data storage capacity of 25 gigabytes and (b) a set of ten plastic "jewel case" compact disc containers (which each store exactly one compact disc). On 05_DECEMBER_2024, karbytes also inquired ChatGPT-4o about why the larger-capacity and larger-quantity M_DISC sets were cheaper to buy than were the smaller-capacity and smaller-quantity M_DISC sets.
+
+product_order_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/amazon_order_for_ten_jewel_cases_for_compact_discs_placed_by_karbytes_on_05december2024.png
+
+product_order_1: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/amazon_order_for_ten_mdiscs_which_each_have_a_storage_capacity_of_25_gigabytes_placed_by_karbytes_on_05december2024.png
+
+chatgpt_conversation: []
