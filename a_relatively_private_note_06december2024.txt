@@ -1,4 +1,4 @@
-// a_private_note_06december2024.txt
+// a_relatively_private_note_06december2024.txt
 
 "left side" verses "right side"
 
