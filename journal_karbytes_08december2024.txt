@@ -1,0 +1,34 @@
+// journal_karbytes_08december2024.txt
+
+To Whom It May Concern:
+
+The (25 gigabyte) M_DISC which I burned on 08_DECEMBER_2024 exclusively contains a folder named karbytes_2024_beta (and that folder exclusively contains 117 zip files).
+
+Each of the 117 zip files which are burned to that disc contains all the files which are in that zip file's respective GitHub repository at 11:59PM Pacific Standard Time on 07_DECEMBER_2024.
+
+Note that the aforementioned file collection named karbytes_2024_beta is not the same file collection named karbytes_2024_0. 
+
+(The zip files which correspond with the GitHub repositories named KARLINA_OBJECT_extension_pack_26 and KARBYTES_FOR_LIFE_BLOG have the string "_07december2024" inserted into their file names in order to signify that those zip files were downloaded from their respective GitHub repositories as those GitHub repositories were configured at 11:59PM Pacific Standard Time on 07_DECEMBER_2024).
+
+(Note also that the zip file in karbytes_2024_beta named KARLINA_OBJECT_extension_pack_26-main_07december2024.zip has a larger file size than what is listed in the files in that zip file named mdisc_karbytes_ultra_2024_edition_19.txt and mdisc_karbytes2024_0.txt due to the fact that I uploaded at least one image to the GitHub repository named KARLINA_OBJECT_extension_pack_26 after I updated the aforementioned text files in KARLINA_OBJECT_extension_pack_26-main_07december2024.zip for the last time (and before burning that zip file (along with the other 116 zip files in the folder named karbytes_2024_beta) to the aforementioned (25 gigabytes) M_DISC)).
+
+karbytes_2024_beta was created in order to test the read/write functionality of my LG compact disc drive with a (25 gigabyte) M_DISC inserted in that disc drive in preparation for using that disc drive to burn three (25 gigabyte) M_DISCs each with the file collection named karbytes_2024_0 closer to the last day of the year 2024 (and it took approximately X minutes for me to burn karbytes_2024_beta to the aforementioned (25 gigabyte) M_DISC).
+
+I expect to add more content to the GitHub repository named KARLINA_OBJECT_extension_pack_26 before the end of the year 2024 (and no later than 11:59PM Pacific Standard Time on 30_DECEMBER_2024).
+
+After I close KARLINA_OBJECT_extension_pack_26 to further changes, I will burn karbytes_2024_0 to three (25 gigabyte) M_DISCs, read test those discs (to ensure that the files on those discs are read-able by copying the entire contents of each of those discs to my computer's Desktop directory), and declare karbytes_2024_0 to be in its finalized state forever after 11:59PM Pacific Standard Time on 30_DECEMBER_2024. (I plan on not making any updates to karbytes between 11:59PM Pacific Standard Time on 30_DECEMBER_2024 and 11:59PM Pacific Standard Time on 31_DECEMBER_2024).
+
+Sincerely,
+karbytes
+
+* * *
+
+References
+
+relevant_image_0: []
+
+relevant_image_1: []
+
+relevant_technical_documentation_page_0: []
+
+relevant_technical_documentation_page_1: []
