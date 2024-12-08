@@ -1,118 +1,46 @@
-// chatgpt_karbytes_08december2024.txt
+/**
+ * file: journal_karbytes_08december2024.txt
+ * type: plain-text
+ * date: 08_DECEMBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
-karbytes:
+The following content is basically obsolete at the time this journal entry is being written on 08_DECEMBER_2024 at approximately 6:30AM Pacific Standard Time. That content was written approximately six hours ago before karbytes attempted to burn files to a 25 gigabyte M_DISC using a disc drive which lacked the requisite Blu-ray compatibility. karbytes consulted ChatGPT-4o about which disc drive to use instead (which resulted in karbytes finding a compatible disc drive on Newegg). (A transcript of the aforementioned conversation between karbytes and ChatGPT-4o is available on the web page at the following Uniform Resource Locator: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08december2024/).
 
-Which disc drives are compatible with Verbatim BD-R 25 gigabyte M-Disc?
+* * *
 
-ChatGPT:
+To Whom It May Concern:
 
-Verbatim's 25GB BD-R M-Discs are designed for long-term data storage and are compatible with a wide range of Blu-ray disc drives. Unlike the original M-Disc DVDs, which required specialized drives due to their unique recording layer, the BD-R M-Discs can be used with most standard Blu-ray writers and recorders.
+The (25 gigabyte) M_DISC which I burned on 08_DECEMBER_2024 exclusively contains a folder named karbytes_2024_beta (and that folder exclusively contains 117 zip files).
 
-However, to ensure optimal performance and longevity, it's recommended to use drives that have been tested and confirmed for compatibility with M-Disc technology. Manufacturers such as LG, ASUS, Pioneer, and Panasonic offer models that support M-Disc BD-R media. For instance, LG's BE16NU50 and BH16NS55, ASUS's BW-16D1HT, and Pioneer's BDR-209DBK are among the drives listed as compatible.
-MDISC
+Each of the 117 zip files which are burned to that disc contains all the files which are in that zip file’s respective GitHub repository at 11:59PM Pacific Standard Time on 07_DECEMBER_2024.
 
-It's important to note that while many modern Blu-ray drives can read M-Disc BD-Rs, not all can write to them. Therefore, if you plan to burn data onto these discs, ensure that your drive explicitly supports M-Disc BD-R writing capabilities. Consulting the manufacturer's specifications or compatibility lists can provide confirmation.
+Note that the aforementioned file collection named karbytes_2024_beta is not the same file collection named karbytes2024_0.
 
-In summary, Verbatim's 25GB BD-R M-Discs offer broad compatibility with standard Blu-ray drives, but for the best results, using a drive that officially supports M-Disc technology is advisable.
+(The zip files which correspond with the GitHub repositories named KARLINA_OBJECT_extension_pack_26 and KARBYTES_FOR_LIFE_BLOG have the string “_07december2024” inserted into their file names in order to signify that those zip files were downloaded from their respective GitHub repositories as those GitHub repositories were configured at 11:59PM Pacific Standard Time on 07_DECEMBER_2024).
 
-karbytes:
+karbytes(Note also that the zip file in karbytes_2024_beta named KARLINA_OBJECT_extension_pack_26-main_07december2024.zip has a larger file size than what is listed in the files in that zip file named mdisc_karbytes_ultra_2024_edition_19.txt and mdisc_karbytes2024_0.txt due to the fact that I uploaded at least one image to the GitHub repository named KARLINA_OBJECT_extension_pack_26 after I updated the aforementioned text files in KARLINA_OBJECT_extension_pack_26-main_07december2024.zip for the last time (and before burning that zip file (along with the other 116 zip files in the folder named karbytes_2024_beta) to the aforementioned (25 gigabytes) M_DISC)).
 
-Does the slim portable DVD writer by LG work with those discs?
+karbytes_2024_beta was created in order to test the read/write functionality of my LG compact disc drive with a (25 gigabyte) M_DISC inserted in that disc drive in preparation for using that disc drive to burn three (25 gigabyte) M_DISCs each with the file collection named karbytes2024_0 closer to the last day of the year 2024 (and it took approximately X minutes for me to burn karbytes_2024_beta to the aforementioned (25 gigabyte) M_DISC).
 
-ChatGPT:
+I expect to add more content to the GitHub repository named KARLINA_OBJECT_extension_pack_26 before the end of the year 2024 (and no later than 11:59PM Pacific Standard Time on 30_DECEMBER_2024).
 
-LG's slim portable DVD writers, such as models GP63EX70, GP95NW70, SP80NB80, and SP80NB60, support M-DISC technology. However, they are designed specifically for DVD M-DISCs and do not support Blu-ray M-DISCs like the Verbatim 25GB BD-R M-Disc.
+After I close KARLINA_OBJECT_extension_pack_26 to further changes, I will burn karbytes2024_0 to three (25 gigabyte) M_DISCs, read test those discs (to ensure that the files on those discs are read-able by copying the entire contents of each of those discs to my computer’s Desktop directory), and declare karbytes2024_0 to be in its finalized state forever after 11:59PM Pacific Standard Time on 30_DECEMBER_2024. (I plan on not making any updates to karbytes between 11:59PM Pacific Standard Time on 30_DECEMBER_2024 and 11:59PM Pacific Standard Time on 31_DECEMBER_2024).
 
-To write to Verbatim's 25GB BD-R M-Discs, you'll need a Blu-ray writer that supports M-DISC Blu-ray media. LG offers models such as the WP50NB40 Slim Portable Blu-ray Writer, which supports both DVD and Blu-ray M-DISCs.
+Sincerely,
+karbytes
 
-In summary, LG's slim portable DVD writers are compatible with M-DISC DVDs but not with M-DISC Blu-ray discs. For Verbatim's 25GB BD-R M-Discs, a compatible Blu-ray writer like LG's WP50NB40 is required.
+* * *
 
-karbytes:
+References
 
-What is the cheapest Blu-ray disc burner manufactured specifically for those discs available?
+relevant_image_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/test_25gb_mdisc_karbytes_2024_beta_08dec2024_p0.jpg
 
-ChatGPT:
+relevant_image_1: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/test_25gb_mdisc_karbytes_2024_beta_08dec2024_p1.jpg
 
-To write to Verbatim's 25GB BD-R M-Discs, you'll need a Blu-ray burner that supports M-Disc technology. One of the most affordable options is the LG WH14NS40 Internal Blu-ray Disc Rewriter, which offers 14x BD-R write speeds and M-Disc support.
+relevant_image_2: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/newegg_order_preview_for_mdisc_bluray_external_disc_drive_08december2024.png
 
-Another cost-effective choice is the ASUS BW-16D1HT Internal Blu-ray Drive, featuring 16x BD-R write speeds and M-Disc compatibility.
+relevant_technical_documentation_page_0: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2024_0/
 
-For a portable solution, consider the LG BP50NB40 Ultra Slim Portable Blu-ray Writer, which supports M-Disc and offers 6x BD-R write speeds.
-
-Please note that prices may vary based on the retailer and current market conditions. It's advisable to verify the latest pricing and availability before making a purchase.
-
-karbytes:
-
-Is the LG WH14NS40 disc drive compatible with a Lenovo IdeaPad 1 15IAU7 laptop?
-
-ChatGPT:
-
-The LG WH14NS40 is an internal Blu-ray disc burner designed for desktop computers with available 5.25-inch drive bays and SATA interfaces. The Lenovo IdeaPad 1 15IAU7 is a compact laptop that lacks the necessary internal space and SATA connections to accommodate such drives. Therefore, the WH14NS40 cannot be installed directly into this laptop.
-
-However, you can still use the WH14NS40 with your IdeaPad 1 15IAU7 by employing a compatible external USB enclosure that supports 5.25-inch SATA drives. This setup allows the internal drive to function as an external USB Blu-ray burner. Ensure that the enclosure provides adequate power and supports the necessary data transfer rates for Blu-ray burning.
-
-Alternatively, for a more streamlined solution, consider using an external Blu-ray burner designed specifically for portability and USB connectivity. Models like the LG BP50NB40 Ultra Slim Portable Blu-ray Writer offer native USB support and are compatible with M-Disc technology, making them suitable for use with your Lenovo IdeaPad 1 15IAU7.
-
-In summary, while the LG WH14NS40 isn't directly compatible with the Lenovo IdeaPad 1 15IAU7, using an appropriate external USB enclosure can facilitate their use together. Nonetheless, opting for a dedicated external Blu-ray burner may provide a more convenient and integrated solution.
-
-karbytes:
-
-Is the following product compatible with the 25GB M_DISC? https://www.amazon.com/External-Portable-Optical-Compatible-Windows/dp/B0D12P7X1W/
-
-ChatGPT:
-
-The external Blu-ray drive you've referenced on Amazon is designed to read and write various Blu-ray, DVD, and CD formats. However, the product description does not explicitly mention support for M-DISC technology. M-DISCs require specific hardware capabilities to engrave data onto their unique, durable layers. Therefore, without confirmation from the manufacturer regarding M-DISC compatibility, it's uncertain whether this drive can reliably write to Verbatim's 25GB BD-R M-DISCs.
-
-For assured compatibility, consider external Blu-ray drives that explicitly state M-DISC support. For example, the ASUS BW-16D1X-U is an external Blu-ray burner that supports M-DISC, providing archival-quality storage designed to last up to 1,000 years.
-
-In summary, while the Amazon-listed external Blu-ray drive may handle standard Blu-ray discs, its compatibility with M-DISC media is not specified. To ensure successful writing and long-term data preservation on M-DISCs, it's advisable to use a drive that explicitly supports M-DISC technology.
-
-karbytes:
-
-What are the cheapest compatible drives on Amazon?
-
-ChatGPT:
-
-To write to Verbatim's 25GB BD-R M-Discs, you'll need a Blu-ray burner that supports M-Disc technology. Here are some of the most affordable compatible drives available on Amazon:
-
-Verbatim External Slimline CD DVD Blu-Ray Writer
-
-This external drive supports M-Disc formats and is compatible with Windows 8/10/11 and Mac OS X 10.6 or higher. It includes a free 25GB Blu-ray disc.
-
-LG Electronics BP60NB10 Ultra Slim Portable Hybrid Drive
-
-An ultra-slim portable drive with M-Disc support, compatible with PC Windows, Linux, and Mac OS. It features noise reduction and USB 3.0 connectivity.
-
-ASUS BW-16D1HT Internal Blu-ray Drive
-
-This internal drive offers 16x writing speed and M-Disc support. It's designed for desktop use and requires an available 5.25-inch drive bay.
-
-Pioneer BDR-X13UBK External Blu-ray Drive
-
-A high-reliability external drive with 16x BD-R writing speed and M-Disc support. It connects via USB 3.2 Gen1 and includes features like PureRead 3+.
-
-Please note that prices and availability are subject to change. It's advisable to check the latest details on Amazon before making a purchase.
-
-karbytes:
-
-Is the following product compatible with the Verbatim BD-R 25 gigabyte M-Disc: LG 6x Blu-Ray Rewriter 8x DVD RW USB 2.0 Slim External Disc Drive - BP50NB40?
-
-ChatGPT:
-
-Yes, the LG BP50NB40 Slim Portable Blu-ray/DVD Writer is compatible with Verbatim's 25GB BD-R M-Discs. This external drive supports M-Disc technology, allowing for reliable writing and reading of M-Disc media.
-
-The BP50NB40 connects via USB 2.0 and offers a maximum 6x BD-R read and write capability, making it suitable for use with laptops and desktops. Its support for M-Disc ensures long-term data preservation on compatible media.
-
-In summary, the LG BP50NB40 is a suitable choice for burning and accessing Verbatim 25GB BD-R M-Discs, providing a portable and efficient solution for your data storage needs. 
-
-karbytes:
-
-Is that drive compatible with the aforementioned laptop?
-
-ChatGPT:
-
-Yes, the LG BP50NB40 Slim Portable Blu-ray/DVD Writer is compatible with the Lenovo IdeaPad 1 15IAU7 laptop. This external drive connects via USB 2.0, and the IdeaPad 1 15IAU7 is equipped with both USB 2.0 and USB 3.2 Gen 1 Type-A ports, ensuring seamless connectivity.
-
-Additionally, the BP50NB40 supports M-Disc technology, allowing you to read and write Verbatim's 25GB BD-R M-Discs effectively.
-
-In summary, the LG BP50NB40 is a suitable external optical drive for use with your Lenovo IdeaPad 1 15IAU7, providing the necessary compatibility for M-Disc media.
+relevant_technical_documentation_page_1: https://karbytesforlifeblog.wordpress.com/preparing_to_make_mdisc_set_on_30november2024/
