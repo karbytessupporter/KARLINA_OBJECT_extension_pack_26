@@ -37,3 +37,5 @@ blog_post_4: https://karbytesforlifeblog.wordpress.com/journal_karbytes_24novemb
 blog_post_5: https://karbytesforlifeblog.wordpress.com/journal_karbytes_25november2024/
 
 (The blog post references with an asterisk symbol (i.e. '*') to the right of them are considered by karbytes to be the most essential of such blog posts).
+
+(When referring to the three levels of the World Wide Web which karbytes regularly interacts with, karbytes' "ownership" of (some subset of) all dark-web-based files include the aforementioned .onion web page, karbytes' "ownership" of (some subset of) all deep-web-based files include private repositories created and owned by the GitHub user accounts whose usernames are @karlinarayberinger and @karbytessupporter, and karbytes' "ownership" of (some subset of) all surface-web-based files include all files which are classified as being part of the collection of files referred to as karbytes on the following web page: https://karbytesforlifeblog.wordpress.com/about_karbytes/).
