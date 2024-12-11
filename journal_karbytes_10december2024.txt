@@ -36,4 +36,4 @@ blog_post_4: https://karbytesforlifeblog.wordpress.com/journal_karbytes_24novemb
 
 blog_post_5: https://karbytesforlifeblog.wordpress.com/journal_karbytes_25november2024/
 
-(The blog post references with an asterisk symbol (i.e. '*'') to the right of them are considered by karbytes to be the most essential of such blog posts).
+(The blog post references with an asterisk symbol (i.e. '*') to the right of them are considered by karbytes to be the most essential of such blog posts).
