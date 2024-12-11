@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-This journal entry is basically a "note to self" (by karbytes for karbytes) as a quick reference for what to do when the .onion web page at the following darknet web address is not being loaded by the Tor browser on a client computer (and while that .onion web page is supposedly being hosted on karbytes' own server computer): http://ijnqld5dkly6cpvds37nap7n7n5f2tjc4e623b3x7dkzh563wpj6v4yd.onion/
+This journal entry is basically a “note to self” (by karbytes for karbytes) as a quick reference for what to do when the .onion web page at the following darknet web address is not being loaded by the Tor browser on a client computer (and while that .onion web page is supposedly being hosted on karbytes’ own server computer): http://ijnqld5dkly6cpvds37nap7n7n5f2tjc4e623b3x7dkzh563wpj6v4yd.onion/
 
 * * *
 
@@ -16,13 +16,13 @@ sudo service tor restart
 
 sudo service apache2 restart
 
-STEP_1: Restart the client computer's Tor application before attempting to load the web page at the aforementioned darknet web page address again.
+STEP_1: Restart the client computer’s Tor application before attempting to load the web page at the aforementioned darknet web page address again.
 
 * * *
 
-The significance of karbytes' hosting (and accessing) its own .onion web page is to enable karbytes to feel that it "owns" a piece of the dark web (and that particular .onion web page can be used as a template for creating and/or hosting more elaborate dark web content). karbytes enjoys interacting with (and creating and storing content within the context of) the World Wide Web at all three levels: (0) the surface web, (1) the deep web, and (2) the dark web.
+The significance of karbytes’ hosting (and accessing) its own .onion web page is to enable karbytes to feel that it “owns” a piece of the dark web (and that particular .onion web page can be used as a template for creating and/or hosting more elaborate dark web content). karbytes enjoys interacting with (and creating and storing content within the context of) the World Wide Web at all three of its levels: (0) the surface web, (1) the deep web, and (2) the dark web.
 
-For more information on karbytes' dark web projects (as of 11:59PM Pacific Standard Time on 10_DECEMBER_2024), visit the following blog post web pages by karbytes:
+For more information on karbytes’ dark web projects (as of 11:59PM Pacific Standard Time on 10_DECEMBER_2024), visit the following blog post web pages by karbytes:
 
 blog_post_0: https://karbytesforlifeblog.wordpress.com/karbytes_04_october_2024/ (*)
 
@@ -36,6 +36,6 @@ blog_post_4: https://karbytesforlifeblog.wordpress.com/journal_karbytes_24novemb
 
 blog_post_5: https://karbytesforlifeblog.wordpress.com/journal_karbytes_25november2024/
 
-(The blog post references with an asterisk symbol (i.e. '*') to the right of them are considered by karbytes to be the most essential of such blog posts).
+(The blog post references with an asterisk symbol (i.e. ‘*’) to the right of them are considered by karbytes to be the most essential of such blog posts).
 
-(When referring to the three levels of the World Wide Web which karbytes regularly interacts with, karbytes' "ownership" of (some subset of) all dark-web-based files include the aforementioned .onion web page, karbytes' "ownership" of (some subset of) all deep-web-based files include private repositories created and owned by the GitHub user accounts whose usernames are @karlinarayberinger and @karbytessupporter, and karbytes' "ownership" of (some subset of) all surface-web-based files include all files which are classified as being part of the collection of files referred to as karbytes on the following web page: https://karbytesforlifeblog.wordpress.com/about_karbytes/).
+(When referring to the three levels of the World Wide Web which karbytes regularly interacts with, karbytes’ “ownership” of (some subset of) all dark-web-based files include the aforementioned .onion web page, karbytes’ “ownership” of (some subset of) all deep-web-based files include private repositories created by and owned by the GitHub user accounts whose usernames are @karlinarayberinger of @karbytessupporter, and karbytes’ “ownership” of (some subset of) all surface-web-based files include all files which are classified as being part of the collection of files referred to as karbytes on the following web page: https://karbytesforlifeblog.wordpress.com/about_karbytes/). 
