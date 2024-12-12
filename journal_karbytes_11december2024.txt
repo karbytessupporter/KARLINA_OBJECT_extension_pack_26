@@ -1,4 +1,9 @@
-// journal_karbytes_11december2024.txt
+/**
+ * file: journal_karbytes_11december2024.txt
+ * type: plain-text
+ * date: 12_DECEMBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
-karbytes_0: "ANALOG : DIGITAL :: IS : OUGHT."
-
+karbytes_0: “ANALOG : DIGITAL :: IS : OUGHT.”
