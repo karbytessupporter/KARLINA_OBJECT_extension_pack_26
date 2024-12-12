@@ -1,0 +1,4 @@
+// journal_karbytes_11december2024.txt
+
+karbytes_0: "ANALOG : DIGITAL:: IS : OUGHT."
+
