@@ -715,3 +715,15 @@ https://mynoise.net/NoiseMachines/isochronicBrainwaveGenerator.php
 On 12_DECEMBER_2024 at approximately 3:30AM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, on karbytes' Patreon dot Com page, and on karbytes' Bluesky dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/journal_karbytes_11december2024/
+
+* * *
+
+On 12_DECEMBER_2024 at approximately 4:30AM Pacific Standard Time, karbytes shared the following video as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
+
+video_title: "Mindscape 298 | Jeff Lichtman on the Wiring Diagram of the Brain"
+
+video_channel_title: "Sean Carroll"
+
+video_release_date: 09_DECEMBER_2024
+
+video_url: https://www.youtube.com/watch?v=Nh7PQe_dlHk
