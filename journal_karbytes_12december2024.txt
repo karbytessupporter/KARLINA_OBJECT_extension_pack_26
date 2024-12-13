@@ -1,3 +1,9 @@
-// journal_karbytes_12december2024.txt
+/**
+ * file: journal_karbytes_12december2024.txt
+ * type: plain-text
+ * date: 13_DECEMBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
-karbytes_0: "A link to the future: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/mdisc_karbytes_complete_set_30december2024.jpg"
+karbytes_0: "A link to a future web page: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/mdisc_karbytes_complete_set_30december2024.jpg"
