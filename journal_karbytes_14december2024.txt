@@ -1,0 +1,28 @@
+/**
+ * file: journal_karbytes_14december2024.txt
+ * type: plain-text
+ * date: 13_DECEMBER_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Today (13_DECEMBER_2024) I spent the majority of my time in the public cafes today diagnosing and resolving "Proxy Server Refused Connection" errors while using the Tor web browser application on my Android phone to test the availability of my first .onion web page (using ChatGPT-4o as my trusty assistant in that endeavor). I fixed the issue by entering "DisableNetwork 1" into the configuration file editor in the "Torrc Custom Config" field of the Settings in the Orbot application which I installed on my Android phone today. 
+
+At 4:45PM Pacific Standard Time on 13_DECEMBER_2024, the aforementioned .onion web page (whose address is as follows) is accessible on the dark web via my Android phone using the Anrdoid Tor application to render that .onion web page (using that phone's Internet Service Provider (which is AT&T) to connect to the global Internet and, from there, to my .onion web page (which is hosted by the Apache (server) and Tor (darknet) background processes running on my Ubuntu (Linux) laptop computer (and, during that .onion web page hosting instance, that laptop is connected to the public Wi-Fi network at a cafe))).
+
+dark_web_page_address: http://ijnqld5dkly6cpvds37nap7n7n5f2tjc4e623b3x7dkzh563wpj6v4yd.onion/
+
+(In the event that I replace the aforementioned laptop computer with a new laptop (or desktop) computer, I plan to partition that new computer's hard drive such that I can run either Windows or Linux (operating systems) on that machine (and, in the Ubuntu partition of that machine's hard drive, I plan on migrating onto that new machine the requisite files (e.g. hostname, hs_ed25519_secret_key, hs_ed25519_public_key) which are currently used (and necessary) to host the aforementioned .onion web page on the World Wide Web (when the respective server machine is successfully connected to the dark web)). Details about those specific files are available in the blog post at the following Uniform Resource Locator).
+
+surface_web_page_address: https://karbytesforlifeblog.wordpress.com/karbytes_10_october_2024/
+
+* * *
+
+Finally, I wanted to redact the part of the following blog post where I said that I would not be making any more updates to the body of intellectual property named karbytes for the rest of the year 2024 (by saying, instead, that I will allow for karbytes-authorized updates to that collection to be made between 4:45PM Pacific Standard Time on 13_DECEMBER_2024 and 11:59PM Pacific Standard Time on 30_DECEMBER_2024). That is because I think that I will likely generate more content which I would like to include in the folder named karbytes2024_0 (and that folder is intended by me to represent and verbatim constitute karbytes as it is configured at 11:59PM Pacific Standard Time on 31_DECEMBER_2024).
+
+surface_web_page_address: https://karbytesforlifeblog.wordpress.com/journal_karbytes_13december2024/
+
+(A detailed enumeration of the 117 zip files which are contained within the aforementioned folder named karbytes2024_0 is available at the following web page).
+
+surface_web_page_address: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2024_0/
+
