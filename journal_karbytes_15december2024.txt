@@ -1,0 +1,21 @@
+// journal_karbytes_15december2024.txt
+
+The following three images were generated before 12:00AM Pacific Standard Time on 14_DECEMBER_2024 (and after 11:00PM Pacific Standard Time on 13_DECEMBER_2024). 
+
+Then, at 12:00AM Pacific Standard Time on 14_DECEMBER_2024, those images were not present in their respective GitHub repository due to the fact that karbytes had intentionally deleted them after backing each of them up to the WayBack Machine (before (temporarily) excluding those image files from that (archived) public GitHub repository (i.e. KARLINA_OBJECT_extension_pack_26)).
+
+image_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/mdisc_karbytes2024beta_13december2024.jpg
+
+image_1: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/read_test_on_karbytes13de2024_first_25gb_mdisc.jpg
+
+image_2: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_26/main/read_test_of_karbytes13de2024_completed_13dec2024.jpg
+
+As of 11:59PM Pacific Standard Time on 31_DECEMBER_2024, the three Uniform Resource Locators (i.e. web page addresses) above this paragraph (and in this file (i.e. journal_karbytes_15december2024.txt)) are forever after a part of the body of (public-domain and surface-web-hosted (source-code and multi-media)) (digital (binary)) FILEs named karbytes (according to the terms defined in the web page at the following Uniform Resource Locator).
+
+html_file: https://karbytesforlifeblog.wordpress.com/about_karbytes/
+
+* * *
+
+Note that the aforementioned three images were not present in the aforementioned GitHub repository for the entire minute after (and at) 12:00AM Pacific Standard Time on 14_DECEMBER_2024.
+
+Note also that, during the specific aforementioned minute-long time interval, the entire collection of files (which were burned to the (25 gigabyte) M_DISC named karbytes13de2024) named karbytes2024_0 was identical to the (aforementioned) surface-web-hosted (and public-domain) file collection named karbytes.
